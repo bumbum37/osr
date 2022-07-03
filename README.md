@@ -1,0 +1,2 @@
+# osr
+scrap web anime
